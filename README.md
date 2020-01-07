@@ -9,5 +9,5 @@
 
 ## To do
 - Make notebook to reproduce exact figures in paper
-- Make online tool for people to generate SGL sky charts. People enter network node (e.g., Alpha Cen A) plus observation date --> code will produce sky chart to be observed
+- Make online tool for people to generate SGL sky charts. People enter network node (e.g., from Alpha Cen A to the sun) plus observation date --> code will produce sky chart to be observed
 - Documentation
